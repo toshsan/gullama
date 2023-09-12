@@ -21,4 +21,5 @@ export default defineConfig({
     sourcemap: !!process.env.TAURI_DEBUG,
   },
   plugins: [vue()],
+  css: { devSourcemap: true },
 });

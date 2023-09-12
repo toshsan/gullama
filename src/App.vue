@@ -2,5 +2,6 @@
 
 <template>
   <h1>Gullama App</h1>
-  <p>The GUI app for Lamma.cpp</p>
+  <p>The GUI app for llama.cpp</p>
+  <input text/>
 </template>
